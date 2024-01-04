@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shilpa-PJ
-- 👀 I’m interested in Programming especially in python and c, also in AI and Data Science
+- 👀 I’m interested in Programming especially in python and c, Web development(mainly Frontend) also in AI and Data Science
 - 🌱 I’m currently learning MSc Computer Science, Specialization in Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
